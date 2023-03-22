@@ -1,0 +1,175 @@
+raza,categoria,costo_total_vida,longevidad_media,no_posibles_enfermedades_gen,precio_de_compra_promedio,costo_comida_anual,ciclo_cuidado_de_pelo,compatibilidad_con_niños,calificacion_popular,tamaño,peso_kg,altura_hombros_cm,categoria_de_entrenabilidad,no_rep_para_apreender,obedecer_a_la_primera_porcentaje,posibles_enfermedades_geneticas_resumen,posibles_enfermedades_geneticas_especifico,nivel_de_precio,precio_mas_bajo,precio_mas_alto,prom_comida_vida,prom_otros_gastos_vida
+Border Collie,herding,20143,12.52,2,623,324,2,3,45.0,medium,20.35,51,Brightest,<5,>95,"eye problems, deafness","Collie eye anomaly, deafness",budget,175,1050,"3,486","13,095"
+Border Terrier,terrier,22638,14.0,0,833,324,2,1,80.0,small,6.0,no data,Above average,15-25,>70,none,none,mid-price,250,1200,"3,898","14,643"
+Brittany,sporting,22589,12.92,0,618,466,2,2,30.0,medium,16.0,48,Excellent,5-15,>85,none,none,budget,300,1200,"5,171","13,514"
+Cairn Terrier,terrier,21992,13.84,2,435,324,2,1,59.0,small,6.0,25,Above average,15-25,>70,"lion jaw', heart problems  ","Craniomandibular osteopathy (""lion jaw""), Mitral valve dysplasia",budget,300,600,"3,854","14,476"
+Welsh Springer Spaniel,sporting,20224,12.49,1,750,324,2,1,130.0,medium,20.35,46,Above average,15-25,>70,hip problems,hip dysplasia,mid-price,750,750,"3,478","13,064"
+English Cocker Spaniel,sporting,18993,11.66,0,800,324,2,1,63.0,medium,14.0,41,Excellent,5-15,>85,none,none,mid-price,600,1000,"3,247","12,196"
+Cocker Spaniel,sporting,24330,12.5,2,465,674,2,1,27.0,small,11.0,37,Excellent,5-15,>85,"eye, skin problems","Retinal dysplasia, seborrhea",budget,250,800,"6,149","13,074"
+Papillon,toy,21001,13.0,5,740,324,2,2,38.0,small,20.35,24,Brightest,<5,>95,"cataracts, hair loss, heart, eye, blood clotting disorders","Cataracts, Follicular dysplasias, Mitral valve dysplasia, Progressive retinal atrophy, von Willebrand's disease",mid-price,400,1000,"3,620","13,597"
+Australian Cattle Dog,herding,20395,11.67,1,530,466,2,3,60.0,medium,20.35,47,Brightest,<5,>95,hip problems,hip dysplasia,budget,250,1000,"4,671","12,206"
+Shetland Sheepdog,herding,21006,12.53,5,465,405,1,1,20.0,small,10.15,37,Brightest,<5,>95,"eye problems, deafness, skin + heart problems, blood clotting disorders","Collie eye anomaly (CEA), deafness, Dermatomyositis and ulcerative dermatosis, Patent ductus arteriosus (PDA), von Willebrand's disease",budget,150,1000,"3,698","13,106"
+Siberian Husky,working,22049,12.58,0,650,466,3,1,16.0,medium,22.0,55,Average,25-40,>50,none,none,budget,450,1000,"5,035","13,158"
+Lhasa Apso,non-sporting,22031,13.92,1,350,324,2,1,62.0,small,7.0,27,Fair,40-80,>30,dry eye',"Keratoconjunctivitis sicca (KCS) - ""dry eye""",budget,175,550,"3,876","14,560"
+Affenpinscher,toy,18333,11.42,0,510,324,2,2,139.0,small,20.35,26,Above average,15-25,>70,none,none,budget,200,800,"3,180","11,945"
+Dachshund,hound,20113,12.63,2,423,324,2,3,9.0,small,11.0,no data,Average,25-40,>50,"skin, spinal problems","acanthosis nigricans, Intervertebral disk disease",budget,125,750,"3,517","13,210"
+Miniature Schnauzer,terrier,20087,11.81,2,715,405,2,2,12.0,small,7.0,33,Excellent,5-15,>85,"liver, sinus problems","Portosystemic shunt, Sick sinus syndrome",mid-price,200,1600,"3,486","12,353"
+Chihuahua,toy,26250,16.5,1,588,324,2,3,14.0,small,2.0,13,Fair,40-80,>30,knee problems,Patellar luxation,budget,200,1500,"4,594","17,258"
+Australian Terrier,terrier,17892,11.05,0,640,324,2,2,121.0,small,20.35,27,Above average,15-25,>70,none,none,budget,200,900,"3,077","11,558"
+Whippet,hound,20976,12.87,0,915,324,2,2,57.0,medium,20.35,51,Average,25-40,>50,none,none,mid-price,650,1200,"3,584","13,461"
+English Springer Spaniel,sporting,21946,12.54,4,615,466,2,1,29.0,medium,20.0,50,Excellent,5-15,>85,"hip, eye, skin problems; enzyme deficiency","Hip dysplasia, Phosphofructokinase (PFK) deficiency, Retinal dysplasia, seborrhea",budget,450,1500,"5,019","13,116"
+West Highland White Terrier,terrier,20490,12.8,3,538,324,2,1,35.0,small,20.35,27,Average,25-40,>50,"lion jaw', 'dry eye', skin problems","Craniomandibular osteopathy (""lion jaw""), Keratoconjunctivitis sicca (KCS) - ""dry eye"", seborrhea",budget,275,750,"3,564","13,388"
+Bedlington Terrier,terrier,22107,13.51,2,1058,324,2,2,134.0,small,9.0,no data,Average,25-40,>50,"liver, eye problems","Chronic hepatitis, Retinal dysplasia",mid-price,250,1800,"3,762","14,131"
+Poodle,non-sporting,21237,11.95,2,900,466,2,2,8.0,medium,20.35,41,Brightest,<5,>95,"fatal stomach bloat, skin disorder","Gastric dilatation-volvulus (serious stomach disorder), sebaceous adenitis (skin disorder)",mid-price,500,1500,"4,783","12,499"
+Bichon Frise,non-sporting,19735,12.21,0,693,324,1,1,39.0,small,20.35,27,Average,25-40,>50,none,none,budget,250,1500,"3,400","12,771"
+German Shorthaired Pointer,sporting,25842,11.46,1,545,971,2,1,15.0,large,28.0,61,Excellent,5-15,>85,hip problems,hip dysplasia,budget,200,850,"8,117","11,987"
+Pointer,sporting,24445,12.42,1,294,710,2,1,115.0,large,27.0,65,Average,25-40,>50,hip problems,hip dysplasia,budget,50,500,"7,565","12,991"
+Tibetan Spaniel,non-sporting,25549,14.42,0,1050,466,2,1,114.0,small,5.0,25,Average,25-40,>50,none,none,mid-price,500,2000,"5,772","15,083"
+Labrador Retriever,sporting,21299,12.04,3,810,466,2,1,1.0,medium,31.0,58,Brightest,<5,>95,"elbows, hips, eyes","elbow dysplasia, hip dysplasia, retinal dysplasia",mid-price,299,1500,"4,819","12,593"
+Maltese,toy,19084,12.25,1,650,270,1,3,23.0,small,2.0,23,Fair,40-80,>30,heart problems,Patent ductus arteriosus (PDA),budget,300,1000,"2,410","12,813"
+Pomeranian,toy,15792,9.67,1,670,324,2,2,17.0,small,2.0,no data,Excellent,5-15,>85,heart problems,Patent ductus arteriosus (PDA),budget,200,1500,"2,693","10,114"
+Shih Tzu,toy,21152,13.2,1,583,324,1,1,11.0,small,6.0,25,Lowest,80-100,<25,eye problems,"Exposure keratopathy syndrome (exophthalmos, lagophthalmos, and/or macroblepharon)",budget,275,1200,"3,675","13,806"
+Australian Shepherd,herding,21458,12.28,2,565,466,2,2,24.0,medium,20.35,52,Average,25-40,>50,"deafness, hip problems","deafness, hip dysplasia",budget,250,1000,"4,915","12,844"
+Yorkshire Terrier,toy,20701,12.6,4,1057,324,1,3,5.0,small,2.0,no data,Above average,15-25,>70,"knee, liver, trachea, eye disorders","Patellar luxation, Portosystemic shunt, tracheal collapse, Retinal dysplasia",mid-price,275,2800,"3,508","13,179"
+Irish Setter,sporting,20323,11.63,2,525,466,2,1,70.0,large,29.0,66,Above average,15-25,>70,"hip, eye problems","Hip dysplasia, Progressive retinal atrophy",budget,300,1000,"4,655","12,164"
+Pharaoh Hound,hound,21047,11.83,0,913,466,2,2,151.0,medium,20.35,58,Above average,15-25,>70,none,none,mid-price,475,1000,"4,735","12,374"
+Brussels Griffon,toy,19551,12.0,0,833,324,2,3,77.0,small,4.0,no data,Fair,40-80,>30,none,none,mid-price,500,1500,"3,341","12,551"
+Golden Retriever,sporting,21447,12.04,4,958,466,2,1,4.0,medium,27.0,58,Brightest,<5,>95,"elbows, hips, eyes, heart ","elbow dysplasia, hip dysplasia, retinal dysplasia, subaortic stenosis",mid-price,325,2500,"4,819","12,593"
+Samoyed,working,25352,12.44,1,1162,710,2,1,69.0,medium,20.35,54,Above average,15-25,>70,hip problems,hip dysplasia,mid-price,795,1400,"7,577","13,012"
+Beagle,hound,19468,12.3,1,288,324,1,1,3.0,small,20.35,36,Lowest,80-100,<25,heart problems,Pulmonic stenosis,budget,100,600,"3,425","12,865"
+Chesapeake Bay Retriever,sporting,16697,9.48,1,522,466,2,1,46.0,large,31.0,60,Above average,15-25,>70,hip problems,hip dysplasia,budget,175,795,"3,794","9,916"
+Tibetan Terrier,non-sporting,20336,12.31,0,1140,324,2,2,86.0,small,11.0,39,Fair,40-80,>30,none,none,mid-price,450,1600,"3,428","12,876"
+Gordon Setter,sporting,19605,11.1,1,700,466,2,1,94.0,large,28.0,64,Above average,15-25,>70,hip problems,hip dysplasia,mid-price,500,100,"4,443","11,610"
+English Setter,sporting,20312,11.57,2,615,466,2,1,87.0,large,20.35,62,Above average,15-25,>70,"deafness, hip problems","deafness, hip dysplasia",budget,250,1000,"4,631","12,102"
+Pug,toy,18527,11.0,1,469,405,2,1,26.0,medium,7.0,41,Fair,40-80,>30,dry eye',"Keratoconjunctivitis sicca (KCS) - ""dry eye""",budget,250,699,"3,246","11,505"
+Briard,herding,19673,11.17,1,650,466,1,1,125.0,large,20.35,62,Above average,15-25,>70,hip problems,hip dysplasia,budget,500,800,"4,471","11,683"
+Norfolk Terrier,terrier,24308,13.07,0,2083,466,2,2,120.0,small,5.0,24,Fair,40-80,>30,none,none,high-end,250,2500,"5,231","13,671"
+Flat-Coated Retriever,sporting,16000,9.02,0,600,466,1,1,90.0,medium,20.35,59,Excellent,5-15,>85,none,none,budget,300,1200,"3,610","9,434"
+Boston Terrier,non-sporting,17741,10.92,1,690,324,2,1,22.0,medium,20.35,no data,Average,25-40,>50,breathing problems,brachycephalic syndrome,budget,400,1050,"3,041","11,422"
+Doberman Pinscher,working,18397,10.33,4,790,466,2,2,13.0,large,20.35,66,Brightest,<5,>95,"heart, spine, blood clotting disorders","Dilated cardiomyopathy, Cervical vertebral instability (Wobbler syndrome), Intervertebral disk disease, von Willebrand's disease",mid-price,300,1200,"4,135","10,805"
+English Toy Spaniel,toy,17521,10.1,0,925,405,2,2,129.0,small,5.0,25,Average,25-40,>50,none,none,mid-price,150,1500,"2,981","10,564"
+Belgian Tervuren,herding,19132,10.6,2,1070,466,2,1,108.0,large,20.35,61,Excellent,5-15,>85,"epilepsy, eye problems","Idiopathic epilepsy, Pannus - chronic superficial keratitis",mid-price,850,1200,"4,243","11,087"
+Cavalier King Charles Spaniel,toy,18639,11.29,2,1017,324,2,1,21.0,small,7.0,32,Average,25-40,>50,"heart, spinal problems","Mitral valve dysplasia, Chiari-like malformation (CM) and syringomyelia (SM)",mid-price,100,1800,"3,144","11,809"
+Dalmatian,non-sporting,19886,11.27,2,695,466,2,1,73.0,medium,20.35,53,Above average,15-25,>70,"deafness, urinary stones","Deafness, Urolithiasis (stones)",budget,350,1000,"4,511","11,788"
+Basset Hound,hound,18328,11.43,2,490,324,2,1,41.0,small,20.35,36,Lowest,80-100,<25,"blood, skin disorders","Platelet dysfunction (thrombocytopathia, Basset hound thrombopathia), seborrhea",budget,150,1000,"3,183","11,955"
+Basenji,hound,22096,13.58,3,940,324,2,2,93.0,medium,10.0,42,Lowest,80-100,<25,"kidney, eye problems, anaemia","Fanconi syndrome, Persistent pupillary membranes (PPM), Pyruvate kinase (PK) deficiency",mid-price,600,1200,"3,781","14,204"
+Italian Greyhound,toy,16463,10.02,0,800,324,2,3,65.0,small,20.35,36,Fair,40-80,>30,none,none,mid-price,500,120,"2,790","10,480"
+Staffordshire Bull Terrier,terrier,21650,12.05,1,1145,466,2,1,76.0,medium,14.0,38,Average,25-40,>50,hip problems,hip dysplasia,mid-price,500,1500,"4,823","12,604"
+Bouvier des Flandres,herding,18959,10.34,1,1335,466,2,1,83.0,large,20.35,65,Above average,15-25,>70,hip problems,hip dysplasia,mid-price,800,2500,"4,139","10,815"
+Pembroke Welsh Corgi,herding,23978,12.25,9,587,674,2,1,25.0,small,12.0,28,Excellent,5-15,>85,"cataracts + other eye problems, connective tissue, nerves, kidneys, spine, blood clotting disorders","Cataracts, Corneal dystrophy, Cutaneous asthenia (Ehlers-Danlos syndrome), Degenerative myelopathy, Familial kidney disease, Intervertebral disk disease, Persistent pupillary membranes (PPM), Retinal dysplasia, von Willebrand's disease",budget,375,750,"6,026","12,813"
+Clumber Spaniel,sporting,18084,10.0,0,1033,466,2,1,133.0,medium,32.0,47,Above average,15-25,>70,none,none,mid-price,800,1500,"4,003","10,459"
+Dandie Dinmont Terrier,terrier,21633,12.17,0,925,466,1,1,160.0,small,10.0,23,Fair,40-80,>30,none,none,mid-price,850,1000,"4,871","12,729"
+Saluki,hound,24866,12.0,0,1525,710,1,1,117.0,medium,20.35,58,Average,25-40,>50,none,none,high-end,1000,1800,"7,309","12,551"
+Giant Schnauzer,working,26686,10.0,1,810,1349,1,2,95.0,large,35.0,65,Above average,15-25,>70,hip problems,hip dysplasia,mid-price,400,1500,"9,838","10,459"
+Greyhound,hound,15819,9.36,1,1175,324,2,1,140.0,large,29.0,no data,Average,25-40,>50,blood vessel disorders,familial vasculopathy,mid-price,200,2500,"2,606","9,790"
+Scottish Terrier,terrier,17525,10.69,1,829,324,1,2,54.0,small,9.0,25,Fair,40-80,>30,blood clotting disorder,von Willebrand's disease,mid-price,400,2200,"2,977","11,181"
+Rottweiler,working,18886,9.11,3,1118,710,2,2,10.0,large,20.35,62,Brightest,<5,>95,"heart, elbow, hip problems","Subaortic stenosis, Elbow dysplasia - OCD of the elbow, Hip dysplasia",mid-price,300,1800,"5,549","9,529"
+Kerry Blue Terrier,terrier,17240,9.4,1,1200,466,1,2,124.0,medium,17.0,47,Above average,15-25,>70,heart problems,Patent ductus arteriosus (PDA),mid-price,900,1500,"3,762","9,832"
+Afghan Hound,hound,24077,11.92,0,890,710,1,1,88.0,large,25.0,66,Lowest,80-100,<25,none,none,mid-price,450,1000,"7,260","12,468"
+Newfoundland,working,19351,9.32,2,1178,710,2,1,43.0,large,57.0,69,Above average,15-25,>70,"hip problems, heart defects","subaortic stenosis, hip dysplasia",mid-price,500,2000,"5,677","9,748"
+German Shepherd,herding,17416,9.73,8,820,466,2,2,2.0,large,20.35,61,Brightest,<5,>95,"nerves, pancreas, blood (hemophilia), hip joints","Degenerative myelopathy (nerve disorder), Exocrine pancreatic insufficiency, Hemophilia, Hip dysplasia, Renal cystadenocarcinoma and nodular dermatofibrosis, Pannus - chronic superficial keratitis, Panosteitis, Perianal fistula
+
+",mid-price,400,1495,"3,895","10,177"
+Pekingese,toy,20565,11.56,1,885,466,1,2,64.0,small,6.0,no data,Lowest,80-100,<25,knee problems,Patellar luxation,mid-price,200,3800,"4,627","12,091"
+Old English Sheepdog,herding,22611,11.19,1,832,710,1,1,84.0,medium,20.35,56,Fair,40-80,>30,hip problems,hip dysplasia,mid-price,500,1000,"6,816","11,704"
+Akita,working,20994,10.16,1,1202,710,2,3,47.0,large,20.35,66,Average,25-40,>50,hip problems,hip dysplasia,mid-price,565,1800,"6,188","10,627"
+Rhodesian Ridgeback,hound,16530,9.1,2,995,466,2,2,44.0,large,35.0,65,Average,25-40,>50,"birth defects, hip problems","dermoid sinus, Hip dysplasia",mid-price,750,1300,"3,642","9,518"
+French Bulldog,non-sporting,17266,9.0,0,1900,466,2,1,18.0,medium,12.0,no data,Fair,40-80,>30,none,none,high-end,1300,3500,"3,602","9,414"
+Borzoi,hound,16176,9.08,0,675,466,1,2,102.0,large,37.0,71,Lowest,80-100,<25,none,none,budget,300,1250,"3,634","9,497"
+Bernese Mountain Dog,working,16099,7.56,4,1320,710,2,1,34.0,large,20.35,64,Excellent,5-15,>85,"meningitis, elbow + hip problems, complex immune disorder","Meningitis, Elbow dysplasia - OCD of the elbow, Hip dysplasia, Histiocytosis",mid-price,750,2500,"4,605","7,907"
+Bull Terrier,terrier,18490,10.21,2,1085,466,2,2,51.0,medium,27.0,55,Fair,40-80,>30,"heart problems, zinc metabolism disorder","lethal acrodermatitis, Mitral valve dysplasia",mid-price,300,1750,"4,087","10,679"
+Boxer,working,15746,8.81,4,700,466,2,1,7.0,medium,20.35,59,Average,25-40,>50,"eye, nerve, heart problems","Corneal dystrophy, Degenerative myelopathy, Dilated cardiomyopathy, Subaortic stenosis",mid-price,300,2500,"3,526","9,215"
+Alaskan Malamute,working,21986,10.67,2,1210,710,1,2,58.0,large,36.0,61,Average,25-40,>50,"hip problems, dwarfism","Hip dysplasia, Osteochondrodysplasia - skeletal dwarfism",mid-price,550,2350,"6,499","11,160"
+Chow Chow,non-sporting,15898,9.01,2,515,466,1,2,68.0,medium,20.35,47,Lowest,80-100,<25,"eye, hip problems","Entropion, Hip dysplasia",budget,200,750,"3,606","9,424"
+Bloodhound,hound,13824,6.75,2,608,710,2,2,48.0,large,39.0,64,Lowest,80-100,<25,"fatal stomach bloat, skin problems","Gastric dilatation-volvulus, Hip dysplasia",budget,200,1000,"4,111","7,060"
+Irish Wolfhound,hound,18435,6.94,3,1333,1217,2,1,79.0,large,20.35,81,Average,25-40,>50,"heart, liver, hip problems","Dilated cardiomyopathy, Hip dysplasia, Portosystemic shunt",mid-price,800,1550,"7,246","7,259"
+Bullmastiff,working,13936,7.57,2,980,466,2,1,40.0,large,52.0,65,Fair,40-80,>30,"eye, hip problems","Entropion, Hip dysplasia",mid-price,600,1600,"3,030","7,918"
+Mastiff,working,13581,6.5,2,900,701,2,1,28.0,large,79.0,76,Lowest,80-100,<25,"hip, heart problems","Hip dysplasia, Pulmonic stenosis",mid-price,150,1200,"3,325","6,799"
+Great Dane,working,14662,6.96,4,1040,710,2,1,19.0,large,20.35,76,Average,25-40,>50,"heart, spinal, hip problems, fatal stomach bloat","Dilated cardiomyopathy, Cervical vertebral instability (Wobbler syndrome), Gastric dilatation-volvulus, Hip dysplasia",mid-price,500,2500,"4,239","7,280"
+Saint Bernard,working,20022,7.78,3,875,1217,1,1,49.0,large,70.0,67,Fair,40-80,>30,"heart, hip disorders, fatal stomach bloat","Dilated cardiomyopathy, Gastric dilatation-volvulus, Hip dysplasia",mid-price,450,1500,"8,124","8,137"
+Bulldog,non-sporting,13479,6.29,5,2680,466,2,2,6.0,medium,20.0,no data,Lowest,80-100,<25,"breathing, hip, heart problems, 'dry eye'","brachycephalic syndrome, Hip dysplasia, Keratoconjunctivitis sicca (KCS) - ""dry eye"", Pulmonic stenosis, Ventricular septal defect (VSD)",high-end,1500,5500,"2,518","6,579"
+Airedale Terrier,terrier,19819,11.45,1,733,489,2,1,51.0,medium,20.35,58,Above average,15-25,>70,hip problems,hip dysplasia,mid-price,475,1200,no data,"11,976"
+American English Coonhound,hound,19819,11.5,1,283,489,2,1,51.0,large,20.35,62,no data,no data,no data,no data,no data,budget,100,350,no data,no data
+American Eskimo Dog,non-sporting,19819,10.95,0,560,489,2,1,51.0,small,20.35,36,no data,no data,no data,none,none,budget,300,950,no data,no data
+American Foxhound,hound,19819,10.95,1,757,489,2,1,51.0,medium,20.35,58,Average,25-40,>50,no data,no data,mid-price,250,1000,no data,no data
+American Staffordshire Terrier,terrier,19819,10.95,1,1043,489,2,1,51.0,medium,20.35,46,Above average,15-25,>70,skin problems,Demodicosis/ Demodectic mange,mid-price,250,1500,no data,no data
+American Water Spaniel,sporting,19819,10.95,0,730,489,2,1,51.0,medium,16.0,42,Average,25-40,>50,none,none,mid-price,600,1250,no data,no data
+Anatolian Shepherd Dog,working,19819,10.75,1,795,489,2,2,51.0,large,52.0,71,no data,no data,no data,no data,no data,no data,no data,no data,"6,548","11,244"
+Bearded Collie,herding,19819,12.77,0,795,489,1,1,51.0,medium,20.35,53,Above average,15-25,>70,none,none,no data,no data,no data,"5,111","13,357"
+Beauceron,herding,19819,10.95,1,967,489,2,1,51.0,large,20.35,65,no data,no data,no data,no data,no data,mid-price,950,"1,000",no data,no data
+Belgian Malinois,herding,19819,10.95,0,1080,489,2,1,51.0,large,20.35,61,Excellent,5-15,>85,none,none,mid-price,550,2000,no data,no data
+Belgian Sheepdog,herding,19819,10.95,4,795,489,2,1,51.0,large,20.35,61,Excellent,5-15,>85,"cataracts + other eye problems, muscular dystrophy","Cataracts, Pannus - chronic superficial keratitis, Progressive retinal atrophy, X-linked muscular dystrophy",no data,no data,no data,no data,no data
+Black and Tan Coonhound,hound,19819,10.95,0,325,489,2,1,51.0,large,20.35,64,Average,25-40,>50,none,none,budget,200,500,no data,no data
+Black Russian Terrier,working,19819,10.5,0,2833,489,2,1,51.0,large,20.35,71,no data,no data,no data,none,none,high-end,2500,3000,no data,no data
+Bluetick Coonhound,hound,19819,10.95,0,370,489,2,1,51.0,large,28.0,61,no data,no data,no data,none,none,budget,200,500,no data,no data
+Boykin Spaniel,sporting,19819,10.95,1,531,489,2,1,51.0,medium,20.35,41,no data,no data,no data,no data,no data,budget,200,800,no data,no data
+Canaan Dog,herding,19819,14.67,0,795,489,2,1,51.0,medium,20.0,55,no data,no data,no data,none,none,no data,no data,no data,"5,872","15,344"
+Cane Corso,working,19819,10.95,1,1070,489,2,1,51.0,large,20.35,64,no data,no data,no data,no data,no data,mid-price,900,1500,no data,no data
+Cardigan Welsh Corgi,herding,19819,12.7,0,828,489,2,1,51.0,small,14.0,29,Excellent,5-15,>85,none,none,mid-price,395,1085,no data,"13,284"
+Cesky Terrier,terrier,19819,8.42,1,795,489,2,1,51.0,small,9.0,29,no data,no data,no data,no data,no data,no data,no data,no data,"3,370","8,807"
+Chinese Crested,toy,19819,10.08,1,538,489,2,1,51.0,small,20.35,30,Fair,40-80,>30,no data,no data,budget,125,1300,no data,"10,543"
+Chinese Shar Pei,non-sporting,19819,10.95,4,840,489,2,1,51.0,medium,24.0,48,Average,25-40,>50,"canine hay fever, skin, eye, hip problems","Atopy, Demodicosis/ Demodectic mange, Entropion, Hip dysplasia",mid-price,350,2000,no data,no data
+Collie,herding,19819,10.95,2,650,489,2,1,51.0,large,28.0,61,Excellent,5-15,>85,"eye, skin and muscle disorders","Collie eye anomaly (CEA), Dermatomyositis and ulcerative dermatosis",budget,350,950,no data,no data
+Curly Coated Retriever,sporting,19819,10.75,0,795,489,2,2,51.0,large,20.35,64,Average,25-40,>50,none,none,no data,no data,no data,"6,548","11,244"
+English Foxhound,hound,19819,10.95,0,795,489,2,1,51.0,large,20.35,61,Average,25-40,>50,none,none,no data,no data,no data,no data,no data
+Entlebucher Mountain Dog,herding,19819,10.95,1,1167,489,2,1,51.0,medium,20.35,47,no data,no data,no data,no data,no data,mid-price,"1,000","1,300",no data,no data
+Field Spaniel,sporting,19819,9.9,0,795,489,1,2,51.0,medium,20.35,44,Above average,15-25,>70,none,none,no data,no data,no data,"3,963","10,355"
+Finnish Lapphund,herding,19819,7.33,1,795,489,1,1,51.0,medium,20.35,47,no data,no data,no data,no data,no data,no data,no data,no data,"2,934","7,667"
+Finnish Spitz,non-sporting,19819,11.17,0,795,489,2,1,51.0,medium,20.35,45,Average,25-40,>50,none,none,no data,no data,no data,"4,471","11,683"
+German Pinscher,working,19819,11.42,1,1500,489,2,1,51.0,medium,20.35,47,no data,no data,no data,no data,no data,high-end,1500,1500,no data,"11,945"
+German Wirehaired Pointer,sporting,19819,10.0,1,655,489,2,1,51.0,large,20.35,61,Average,25-40,>50,hip problems,hip dysplasia,budget,600,800,no data,"10,459"
+Glen of Imaal Terrier,terrier,19819,10.42,1,795,489,2,1,51.0,small,16.0,34,no data,no data,no data,no data,no data,no data,no data,no data,no data,"10,899"
+Great Pyrenees,working,19819,10.0,1,503,489,2,1,51.0,large,20.35,72,Fair,40-80,>30,hip problems,hip dysplasia,budget,225,800,no data,"10,459"
+Greater Swiss Mountain Dog,working,19819,6.8,1,1605,489,2,1,51.0,large,20.35,66,no data,no data,no data,hip problems,hip dysplasia,high-end,900,2500,no data,"7,112"
+Harrier,hound,19819,10.95,0,795,489,2,1,51.0,medium,20.35,51,no data,no data,no data,none,none,no data,no data,no data,no data,no data
+Havanese,toy,19819,10.25,0,830,489,2,1,51.0,small,20.35,25,no data,no data,no data,none,none,mid-price,300,1500,no data,"10,721"
+Ibizan Hound,hound,19819,10.95,0,1500,489,2,1,51.0,large,20.35,64,Average,25-40,>50,none,none,high-end,1500,1500,no data,no data
+Icelandic Sheepdog,herding,19819,10.95,1,795,489,2,1,51.0,medium,20.35,44,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data
+Irish Red and White Setter,sporting,19819,11.57,1,1000,489,2,1,51.0,large,20.35,62,no data,no data,no data,no data,no data,mid-price,"1,000","1,000",no data,"12,102"
+Irish Terrier,terrier,19819,10.95,0,588,489,2,1,51.0,medium,12.0,46,Average,25-40,>50,none,none,budget,400,850,no data,no data
+Irish Water Spaniel,sporting,19819,9.33,1,795,489,2,1,51.0,medium,25.0,57,Excellent,5-15,>85,hip problems,hip dysplasia,no data,no data,no data,"5,683","9,759"
+Japanese Chin,toy,19819,9.25,0,513,489,2,1,51.0,small,20.35,24,Fair,40-80,>30,none,none,budget,200,800,no data,"9,675"
+Keeshond,non-sporting,19819,12.17,1,610,489,2,1,51.0,medium,20.35,44,Excellent,5-15,>85,hip problems,hip dysplasia,budget,350,1000,no data,"12,729"
+Komondor,working,19819,9.17,1,656,489,2,1,51.0,large,45.0,70,no data,no data,no data,hip problems,hip dysplasia,budget,500,850,no data,"9,591"
+Kuvasz,working,19819,10.95,1,795,489,2,1,51.0,large,42.0,71,Average,25-40,>50,hip problems,hip dysplasia,no data,no data,no data,no data,no data
+Lakeland Terrier,terrier,19819,10.95,0,1093,489,2,1,51.0,small,8.0,37,Fair,40-80,>30,none,none,mid-price,575,1600,no data,no data
+Leonberger,working,15141,6.98,1,1480,489,2,1,51.0,large,20.35,72,no data,no data,no data,no data,no data,mid-price,700,1800,"4,251","7,301"
+Löwchen,non-sporting,19819,10.0,0,795,489,2,1,51.0,small,20.35,33,no data,no data,no data,none,none,no data,no data,no data,no data,"10,459"
+Manchester Terrier,terrier,19819,9.32,0,720,489,2,1,51.0,small,8.0,no data,Above average,15-25,>70,none,none,mid-price,140,1500,no data,"9,748"
+Miniature Bull Terrier,terrier,19819,6.6,0,1740,489,2,1,51.0,small,20.35,30,no data,no data,no data,none,none,high-end,999,2800,no data,"6,903"
+Miniature Pinscher,toy,19819,10.95,0,535,489,2,1,51.0,small,20.35,29,Above average,15-25,>70,none,none,budget,300,900,no data,no data
+Neapolitan Mastiff,working,19819,10.95,1,1760,489,2,1,51.0,large,59.0,70,no data,no data,no data,hip problems,hip dysplasia,high-end,850,3500,no data,no data
+Norwegian Buhund,herding,19819,12.67,1,795,489,2,1,51.0,medium,15.0,44,no data,no data,no data,no data,no data,no data,no data,no data,no data,"13,252"
+Norwegian Elkhound,hound,19819,10.95,1,448,489,2,1,51.0,medium,23.0,51,Above average,15-25,>70,hip problems,hip dysplasia,budget,350,500,no data,no data
+Norwegian Lundehund,non-sporting,19819,10.95,1,795,489,2,1,51.0,small,20.35,34,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data
+Norwich Terrier,terrier,19819,10.95,0,1245,489,2,2,51.0,small,5.0,25,Above average,15-25,>70,none,none,mid-price,750,2000,no data,no data
+Nova Scotia Duck Tolling Retriever,sporting,12653,6.5,1,1500,489,2,1,51.0,medium,20.35,48,no data,no data,no data,hip problems,hip dysplasia,high-end,1500,1500,"2,602","6,799"
+Otterhound,hound,19819,10.8,1,795,489,2,1,51.0,large,44.0,65,Average,25-40,>50,hip problems,hip dysplasia,no data,no data,no data,"4,323","11,296"
+Parson Russell Terrier,terrier,19819,10.95,0,528,489,2,2,51.0,small,7.0,34,no data,no data,no data,none,none,budget,150,850,no data,no data
+Petit Basset Griffon Vendeen,hound,19819,12.7,0,400,489,2,1,51.0,small,20.35,36,Fair,40-80,>30,none,none,budget,250,700,no data,"13,284"
+Plott,hound,19819,10.95,0,795,489,2,1,51.0,medium,23.0,57,no data,no data,no data,none,none,no data,no data,no data,no data,no data
+Polish Lowland Sheepdog,herding,19819,10.8,1,795,489,2,2,51.0,medium,20.35,47,no data,no data,no data,no data,no data,no data,no data,no data,"4,323","11,296"
+Portuguese Water Dog,working,19819,11.42,0,795,489,2,1,51.0,medium,22.0,51,no data,no data,no data,none,none,no data,no data,no data,no data,"11,945"
+Puli,herding,19819,10.95,0,913,489,2,1,51.0,medium,20.35,42,Above average,15-25,>70,none,none,mid-price,700,1000,no data,no data
+Pyrenean Shepherd,herding,19819,10.95,1,795,489,2,1,51.0,medium,20.35,46,no data,no data,no data,no data,no data,no data,no data,no data,no data,no data
+Redbone Coonhound,hound,19819,10.95,0,425,489,2,1,51.0,large,20.35,61,no data,no data,no data,none,none,budget,300,700,no data,no data
+Schipperke,non-sporting,19819,13.0,4,658,489,2,1,51.0,small,20.35,29,Excellent,5-15,>85,"hair loss, diabetes, skin problems","colour dilution alopecia, Diabetes mellitus, Follicular dysplasias, Pemphigus",budget,300,975,no data,"13,597"
+Scottish Deerhound,hound,19819,8.7,2,795,489,2,1,51.0,large,42.0,no data,Average,25-40,>50,"heart problems, fatal stomach bloat","Dilated cardiomyopathy, Gastric dilatation-volvulus",no data,no data,no data,no data,"9,100"
+Sealyham Terrier,terrier,19819,12.25,1,795,489,2,1,51.0,small,11.0,27,Fair,40-80,>30,eye problems,Retinal dysplasia,no data,no data,no data,no data,"12,813"
+Shiba Inu,non-sporting,19819,7.0,1,890,489,2,1,51.0,small,9.0,38,no data,no data,no data,hip problems,hip dysplasia,mid-price,650,1400,no data,"7,322"
+Silky Terrier,toy,19819,14.25,0,448,489,2,1,51.0,small,5.0,24,Above average,15-25,>70,none,none,budget,250,500,no data,"14,905"
+Skye Terrier,terrier,19819,11.0,0,550,489,2,1,51.0,small,18.0,25,Fair,40-80,>30,none,none,budget,500,600,no data,"11,505"
+Smooth Fox Terrier,terrier,19819,13.17,0,575,489,2,1,51.0,small,8.0,38,Average,25-40,>50,none,none,budget,450,750,no data,"13,775"
+Soft-Coated Wheaten Terrier,terrier,19819,12.16,0,832,489,2,1,51.0,medium,16.0,46,Average,25-40,>50,none,none,mid-price,675,1000,no data,"12,719"
+Spinone Italiano,sporting,19819,9.0,1,1725,489,2,1,51.0,large,20.35,62,no data,no data,no data,no data,no data,high-end,1100,2000,no data,"9,414"
+Standard Schnauzer,working,19819,10.95,1,855,489,2,1,51.0,medium,20.35,47,Excellent,5-15,>85,hip problems,hip dysplasia,mid-price,50,1500,no data,no data
+Sussex Spaniel,sporting,19819,11.17,0,795,489,2,3,51.0,small,18.0,36,no data,no data,no data,none,none,no data,no data,no data,"4,471","11,683"
+Swedish Vallhund,herding,22839,14.17,1,772,489,2,1,51.0,small,20.35,32,no data,no data,no data,no data,no data,mid-price,550,1000,"3,946","14,821"
+Tibetan Mastiff,working,23747,11.92,1,3460,489,2,1,51.0,large,20.35,64,no data,no data,no data,no data,no data,high-end,800,6500,"4,771","12,468"
+Toy Fox Terrier,toy,19819,10.95,1,460,489,2,1,51.0,small,20.35,25,no data,no data,no data,no data,no data,budget,200,650,no data,no data
+Vizsla,sporting,19819,12.5,0,935,489,2,1,51.0,medium,20.35,57,Excellent,5-15,>85,none,none,mid-price,800,1200,no data,"13,074"
+Weimaraner,sporting,19819,10.95,1,562,489,2,1,51.0,large,20.35,64,Excellent,5-15,>85,hip problems,hip dysplasia,budget,300,900,no data,no data
+Welsh Terrier,terrier,19819,10.95,0,843,489,2,1,51.0,small,9.0,38,Average,25-40,>50,none,none,mid-price,575,1250,no data,no data
+Wire Fox Terrier,terrier,19819,13.17,0,668,489,2,1,51.0,small,8.0,38,Average,25-40,>50,none,none,budget,175,1600,no data,"13,775"
+Wirehaired Pointing Griffon,sporting,19819,8.8,0,755,489,2,1,51.0,medium,20.35,56,Average,25-40,>50,none,none,mid-price,750,800,no data,"9,204"
+Xoloitzcuintli,non-sporting,19819,10.95,1,717,489,2,1,51.0,medium,20.35,42,no data,no data,no data,no data,no data,mid-price,300,"2,000",no data,no data
