@@ -6,5 +6,4 @@
 #### de pequeño modelo de machine learning 
 #### sobre nuestros amigos peludos
 
-
-##### Drive donde se encuentra una copia del repositorio pero con las imagenes utilizadas en el modelo de Deep Learning [Drive](https://drive.google.com/drive/folders/1FGnGSZTK7p8VAjOCQM43XAWL4HgNDUm_?usp=share_link)
+[![ciencia de datos con peludos web](https://cdn-icons-png.flaticon.com/512/6292/6292175.png)](https://ciencia-de-datos-con-peludos-dashboard.vercel.app/)
