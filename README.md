@@ -6,4 +6,6 @@
 #### de pequeño modelo de machine learning 
 #### sobre nuestros amigos peludos
 
-[![ciencia de datos con peludos web](https://cdn-icons-png.flaticon.com/512/6292/6292175.png)](https://ciencia-de-datos-con-peludos-dashboard.vercel.app/)
+# Mira el dashboard online aqui <img src='https://i.ibb.co/WtTYfjf/sci-dog.png' width='50px'/>
+
+## https://ciencia-de-datos-con-peludos-dashboard.vercel.app/
